@@ -1,8 +1,8 @@
-# OurGroupRankings (Early steps) 
-
-This project is only a draft and doesn't contain any fonctionnality yet. 
-
 # Do not use !
+
+This project is only a draft and doesn't contains any fonctionnality yet. 
+
+# OurGroupRankings (Early steps) 
 
 Chrome extension allowing you to rank and share rankings of web site with your friends or coworkers.
 
